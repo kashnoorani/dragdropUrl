@@ -10,6 +10,10 @@
 	<string>Drag and Drop to Open URL</string>
 	<key>CFBundleExecutable</key>
 	<string>Drag and Drop to Open URL</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.altraveda.extensions.safari.Drag-and-Drop-to-Open-URL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -42,6 +46,8 @@
 	<string>1600</string>
 	<key>DTXcodeBuild</key>
 	<string>16A242d</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.productivity</string>
 	<key>LSMinimumSystemVersion</key>

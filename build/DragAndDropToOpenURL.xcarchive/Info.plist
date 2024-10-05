@@ -8,6 +8,7 @@
 		<string>Applications/Drag and Drop to Open URL.app</string>
 		<key>Architectures</key>
 		<array>
+			<string>x86_64</string>
 			<string>arm64</string>
 		</array>
 		<key>CFBundleIdentifier</key>
@@ -24,7 +25,7 @@
 	<key>ArchiveVersion</key>
 	<integer>2</integer>
 	<key>CreationDate</key>
-	<date>2024-10-05T10:59:28Z</date>
+	<date>2024-10-05T13:35:58Z</date>
 	<key>Name</key>
 	<string>Drag and Drop to Open URL</string>
 	<key>SchemeName</key>
