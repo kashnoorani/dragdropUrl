@@ -42,6 +42,8 @@
 	<string>1600</string>
 	<key>DTXcodeBuild</key>
 	<string>16A242d</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.14</string>
 	<key>NSExtension</key>
