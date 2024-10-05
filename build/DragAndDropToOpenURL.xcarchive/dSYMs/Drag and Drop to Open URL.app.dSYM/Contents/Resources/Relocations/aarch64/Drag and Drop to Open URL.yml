@@ -1,0 +1,45 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kashif/Library/Developer/Xcode/DerivedData/Drag_and_Drop_to_Open_URL-hbndyctdlimcdzadnbmhfjxwtepo/Build/Intermediates.noindex/ArchiveIntermediates/Drag and Drop to Open URL/InstallationBuildProductsLocation/Applications/Drag and Drop to Open URL.app/Contents/MacOS/Drag and Drop to Open URL'
+relocations:
+  - { offset: 0xCD3ED, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFTo', symObjAddr: 0x0, symBinAddr: 0x100003260, symSize: 0x6C }
+  - { offset: 0xCD497, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xE0, symBinAddr: 0x100003340, symSize: 0x28 }
+  - { offset: 0xCD4E1, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL11AppDelegateCMa', symObjAddr: 0x108, symBinAddr: 0x100003368, symSize: 0x20 }
+  - { offset: 0xCD514, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFTo', symObjAddr: 0x0, symBinAddr: 0x100003260, symSize: 0x6C }
+  - { offset: 0xCD557, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x6C, symBinAddr: 0x1000032CC, symSize: 0x8 }
+  - { offset: 0xCD584, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL11AppDelegateCACycfcTo', symObjAddr: 0x74, symBinAddr: 0x1000032D4, symSize: 0x3C }
+  - { offset: 0xCD5B9, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL11AppDelegateCfD', symObjAddr: 0xB0, symBinAddr: 0x100003310, symSize: 0x30 }
+  - { offset: 0xCD71D, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0So05WKWebG0CSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100003388, symSize: 0x10 }
+  - { offset: 0xCD93E, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x750, symBinAddr: 0x100003AD8, symSize: 0x2C }
+  - { offset: 0xCD956, size: 0x8, addend: 0x0, symName: '_$sSo22SFSafariExtensionStateCSgs5Error_pSgIeghgg_ACSo7NSErrorCSgIeyBhyy_TR', symObjAddr: 0x77C, symBinAddr: 0x100003B04, symSize: 0x78 }
+  - { offset: 0xCD96E, size: 0x8, addend: 0x0, symName: '_$ss5Error_pSgIegg_So7NSErrorCSgIeyBy_TR', symObjAddr: 0xB10, symBinAddr: 0x100003E98, symSize: 0x50 }
+  - { offset: 0xCD986, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerCfETo', symObjAddr: 0xD0C, symBinAddr: 0x100004094, symSize: 0x10 }
+  - { offset: 0xCD9B5, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerCMa', symObjAddr: 0xD1C, symBinAddr: 0x1000040A4, symSize: 0x20 }
+  - { offset: 0xCD9D4, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0xEAC, symBinAddr: 0x100004234, symSize: 0x10 }
+  - { offset: 0xCD9E8, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0xEBC, symBinAddr: 0x100004244, symSize: 0x8 }
+  - { offset: 0xCD9FC, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0xEC4, symBinAddr: 0x10000424C, symSize: 0x3C }
+  - { offset: 0xCDA10, size: 0x8, addend: 0x0, symName: '_$s8Dispatch0A13WorkItemFlagsVACs10SetAlgebraAAWl', symObjAddr: 0xF00, symBinAddr: 0x100004288, symSize: 0x48 }
+  - { offset: 0xCDA24, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xF48, symBinAddr: 0x1000042D0, symSize: 0x40 }
+  - { offset: 0xCDA38, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0xF88, symBinAddr: 0x100004310, symSize: 0x4C }
+  - { offset: 0xCDA4C, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstract, symObjAddr: 0xFD4, symBinAddr: 0x10000435C, symSize: 0x44 }
+  - { offset: 0xCDA60, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0_9didFinishySo05WKWebG0C_So12WKNavigationCSgtFySo22SFSafariExtensionStateCSg_s5Error_pSgtYbScMYccfU_TA', symObjAddr: 0x103C, symBinAddr: 0x1000043C4, symSize: 0x8 }
+  - { offset: 0xCDA74, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0_9didFinishySo05WKWebG0C_So12WKNavigationCSgtFySo22SFSafariExtensionStateCSg_s5Error_pSgtYbScMYccfU_yyScMYccfU_TA', symObjAddr: 0x1070, symBinAddr: 0x1000043F8, symSize: 0x8 }
+  - { offset: 0xCDC05, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0So05WKWebG0CSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100003388, symSize: 0x10 }
+  - { offset: 0xCDC1D, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0So05WKWebG0CSgvgTo', symObjAddr: 0x0, symBinAddr: 0x100003388, symSize: 0x10 }
+  - { offset: 0xCDC65, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0So05WKWebG0CSgvsTo', symObjAddr: 0x10, symBinAddr: 0x100003398, symSize: 0x34 }
+  - { offset: 0xCDCAE, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC11viewDidLoadyyF', symObjAddr: 0x44, symBinAddr: 0x1000033CC, symSize: 0x3AC }
+  - { offset: 0xCDD63, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC11viewDidLoadyyFTo', symObjAddr: 0x3F0, symBinAddr: 0x100003778, symSize: 0x28 }
+  - { offset: 0xCDDAC, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0_9didFinishySo05WKWebG0C_So12WKNavigationCSgtFySo22SFSafariExtensionStateCSg_s5Error_pSgtYbScMYccfU_', symObjAddr: 0x418, symBinAddr: 0x1000037A0, symSize: 0x1EC }
+  - { offset: 0xCDE5E, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0_9didFinishySo05WKWebG0C_So12WKNavigationCSgtFySo22SFSafariExtensionStateCSg_s5Error_pSgtYbScMYccfU_yyScMYccfU_', symObjAddr: 0x604, symBinAddr: 0x10000398C, symSize: 0x14C }
+  - { offset: 0xCDF5B, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC03webG0_9didFinishySo05WKWebG0C_So12WKNavigationCSgtFTo', symObjAddr: 0x7F4, symBinAddr: 0x100003B7C, symSize: 0x14C }
+  - { offset: 0xCDF9C, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC011userContentH0_10didReceiveySo06WKUserjH0C_So15WKScriptMessageCtFys5Error_pSgcfU_', symObjAddr: 0x940, symBinAddr: 0x100003CC8, symSize: 0x180 }
+  - { offset: 0xCDFEB, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC011userContentH0_10didReceiveySo06WKUserjH0C_So15WKScriptMessageCtFys5Error_pSgcfU_yyScMYccfU_', symObjAddr: 0xAC0, symBinAddr: 0x100003E48, symSize: 0x50 }
+  - { offset: 0xCE006, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC011userContentH0_10didReceiveySo06WKUserjH0C_So15WKScriptMessageCtFTo', symObjAddr: 0xB60, symBinAddr: 0x100003EE8, symSize: 0x68 }
+  - { offset: 0xCE07E, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0xBC8, symBinAddr: 0x100003F50, symSize: 0xC4 }
+  - { offset: 0xCE0D4, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0xC8C, symBinAddr: 0x100004014, symSize: 0x50 }
+  - { offset: 0xCE10F, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerCfD', symObjAddr: 0xCDC, symBinAddr: 0x100004064, symSize: 0x30 }
+  - { offset: 0xCE132, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL14ViewControllerC011userContentH0_10didReceiveySo06WKUserjH0C_So15WKScriptMessageCtFTf4dnd_n', symObjAddr: 0xD3C, symBinAddr: 0x1000040C4, symSize: 0x170 }
+  - { offset: 0xCE282, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL19ResourceBundleClass33_DCB200924A5A743E7B82E00BCF79A909LLCfD', symObjAddr: 0x0, symBinAddr: 0x100004418, symSize: 0x10 }
+  - { offset: 0xCE2C4, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL19ResourceBundleClass33_DCB200924A5A743E7B82E00BCF79A909LLCMa', symObjAddr: 0x10, symBinAddr: 0x100004428, symSize: 0x20 }
+  - { offset: 0xCE2DF, size: 0x8, addend: 0x0, symName: '_$s25Drag_and_Drop_to_Open_URL19ResourceBundleClass33_DCB200924A5A743E7B82E00BCF79A909LLCfD', symObjAddr: 0x0, symBinAddr: 0x100004418, symSize: 0x10 }
+...
