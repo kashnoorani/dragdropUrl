@@ -1,0 +1,9 @@
+# Ignore specific files
+build/
+config/*.yaml
+
+# Ignore all .log files
+*.log
+
+# Ignore a directory
+temp/
